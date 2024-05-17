@@ -25,7 +25,7 @@ The data is displayed in a table format. Here are the key functionalities of the
 
 ###  Example Interface
 
-An image showcasing the expected user interface should be included here (not possible to generate in text format). The image should depict the table with header row, data entries, and visual representations of the functionalities mentioned above (rating bar, conditional row coloring).
+![Music CD Manager](https://github.com/nkosanamolefe/music/blob/main/music-info.png)
 
 ### Dependencies
 
